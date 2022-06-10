@@ -14,3 +14,4 @@ build/
 test/report/
 Lib/
 Scripts/
+db.sqlite3
