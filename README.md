@@ -257,19 +257,17 @@ I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS <br>
 II. SOLUCIÓN DEL CUESTIONARIO
 
 * ¿Cuál es un estándar de codificación para Python? Ejemplo: Para PHP en el proyecto Pear https://pear.php.net/manual/en/standards.php
+   Se definió una guía de estilo única descrita íntegramente en el Python Enhancement Proposal numero 8, abreviado como PEP 8. En esta se define al pie de la letra, cómo debería estar escrito nuestro código python: https://peps.python.org/pep-0008/#introduction
   
-  
-
 * ¿Qué diferencias existen entre EasyInstall, pip y PyPM?
-
-  
+   EasyInstall es una interfaz obsoleta, que salió como parte de las herramientas de configuración, pip salió después, como una alternativa a easyInstall. Es el actual instalador de paquetes para Python, y viene instalado en Python 2 >=2.7.9 o Python 3 >=3.4. EasyInstall no es un administrador de paquetes completo. No puede listar paquetes locales ni actualizarlos todos. Pip y Python Package Manager (PyPM) son aplicaciones de Python diseñadas para cumplir una función similar a EasyInstall. PyPM no es gratuito y solo se puede usar con la distribución ActivePython de ActiveState, se suspendió y ya no es compatible. Pip es ahora el método preferido para administrar e instalar paquetes en ActivePython.
 
 * En un proyecto Django que se debe ignorar para usar git. Vea: https://github.com/django/django/blob/main/.gitignore. ¿Qué otros tipos de archivos se deberían agregar a este archivo?
 
   
   
 * Utilice <code>python manage.py shell</code> para agregar objetos. ¿Qué archivos se modificaron al agregar más objetos?
-
+   <code>db.sqlite3</code>, la base de datos.
   
   
 ---
