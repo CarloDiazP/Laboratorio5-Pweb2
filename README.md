@@ -270,7 +270,7 @@ II. SOLUCIÓN DEL CUESTIONARIO
   
 * Utilice <code>python manage.py shell</code> para agregar objetos. ¿Qué archivos se modificaron al agregar más objetos?
 
-    <code>db.sqlite3</code>, la base de datos.
+    <code>db.sqlite3</code>: la base de datos.
   
   
 ---
