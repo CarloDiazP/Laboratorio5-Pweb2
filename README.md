@@ -277,7 +277,11 @@ II. SOLUCIÓN DEL CUESTIONARIO
 
 III. CONCLUSIONES
 
-- 
+* Los entornos virtuales son de gran ayuda para la realización de proyectos, nos ayudan a crear aplicaciones distintamente de los archivos del sistema.
+
+* Django nos hace más fácil la creación de aplicaciones web, nos permite ir desde un desarrollo sencillo hasta uno más complejo con la misma funcionalidad, gracias a su organizada interfaz.
+
+* Los modelos de nuestras aplicaciones son nuestra única fuente de datos, las migraciones se encargan de hacer las bases de datos de estos modelos.
     
 ---
     
