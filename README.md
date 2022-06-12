@@ -262,7 +262,7 @@ II. SOLUCIÓN DEL CUESTIONARIO
   
 * ¿Qué diferencias existen entre EasyInstall, pip y PyPM?
 
-   EasyInstall es una interfaz obsoleta, que salió como parte de las herramientas de configuración, pip salió después, como una alternativa a easyInstall. Es el actual instalador de paquetes para Python, y viene instalado en Python 2 >=2.7.9 o Python 3 >=3.4. EasyInstall no es un administrador de paquetes completo. No puede listar paquetes locales ni actualizarlos todos. Pip y Python Package Manager (PyPM) son aplicaciones de Python diseñadas para cumplir una función similar a EasyInstall. PyPM no es gratuito y solo se puede usar con la distribución ActivePython de ActiveState, se suspendió y ya no es compatible. Pip es ahora el método preferido para administrar e instalar paquetes en ActivePython.
+   EasyInstall es una interfaz obsoleta, que salió como parte de las herramientas de configuración, pip salió después, como una alternativa a easyInstall. Es el actual instalador de paquetes para Python, y viene instalado en Python 2 >=2.7.9 o Python 3 >=3.4. EasyInstall no es un administrador de paquetes completo, no puede listar paquetes locales ni actualizarlos todos. Pip y Python Package Manager (PyPM) son aplicaciones de Python diseñadas para cumplir una función similar a EasyInstall. PyPM no es gratuito y solo se puede usar con la distribución ActivePython de ActiveState, se suspendió y ya no es compatible. Pip es ahora el método preferido para administrar e instalar paquetes en ActivePython, además que nos permite la instalación de los entornos virtuales.
 
 * En un proyecto Django que se debe ignorar para usar git. Vea: https://github.com/django/django/blob/main/.gitignore. ¿Qué otros tipos de archivos se deberían agregar a este archivo?
 
