@@ -12,3 +12,6 @@ test/coverage_html/
 test/.coverage
 build/
 test/report/
+Lib/
+Scripts/
+db.sqlite3
