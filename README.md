@@ -39,9 +39,9 @@
 </tr>
 <tr><td colspan="4">INTEGRANTE (s):
 <ul>
-<li>Diaz/Portilla, Carlo Rodrigo</li>
-<li>-</li>
-<li>Ticona/Hareth, Anthony Joaquín</li>
+<li>Diaz/Portilla, Carlo Rodrigo - cdiazpor@unsa.edu.pe</li>
+<li>Moroccoire/Pacompia, Anthony Marcos - amoroccoire@unsa.edu.pe</li>
+<li>Ticona/Hareth, Anthony Joaquín - aticonaha@unsa.edu.pe</li>
 <li>-</li>
 <li>-</li>
 </ul>
