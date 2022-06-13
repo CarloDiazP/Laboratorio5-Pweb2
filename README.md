@@ -69,20 +69,20 @@ I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS <br>
 	   └───Laboratorio5-Pweb2
 	    ├───blog
 	    │    ├───migrations
-	    |	 |    ├───0001_initial.py
-	    |	 |    └───__init__.py
-	    |    ├───__init__.py
-	    |    ├───admin.py
-	    |    ├───apps.py
-	    |    ├───models.py
-	    |    ├───tests.py
-	    |    └───views.py
+	    │	 │    ├───0001_initial.py
+	    │	 │    └───__init__.py
+	    │    ├───__init__.py
+	    │    ├───admin.py
+	    │    ├───apps.py
+	    │    ├───models.py
+	    │    ├───tests.py
+	    │    └───views.py
 	    ├───mysite
-	    |    ├───__init__.py
-	    |    ├───asgi.py
-	    |    ├───settings.py
-	    |    ├───urls.py
-	    |    └───wsgi.py
+	    │    ├───__init__.py
+	    │    ├───asgi.py
+	    │    ├───settings.py
+	    │    ├───urls.py
+	    │    └───wsgi.py
 	    ├───.gitignore
 	    ├───README.md
 	    ├───manage.py
