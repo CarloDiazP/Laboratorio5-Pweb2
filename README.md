@@ -67,12 +67,26 @@ I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS <br>
 * La organización del repositorio es la siguiente
     ```sh
 	   └───Laboratorio5-Pweb2
-	    │
-	    ├───E
-	    │
-	    ├───E
-	    │
-	    └───E
+	    ├───blog
+	    │    ├───migrations
+	    |	 |    ├───0001_initial.py
+	    |	 |    └───__init__.py
+	    |    ├───__init__.py
+	    |    ├───admin.py
+	    |    ├───apps.py
+	    |    ├───models.py
+	    |    ├───tests.py
+	    |    └───views.py
+	    ├───mysite
+	    |    ├───__init__.py
+	    |    ├───asgi.py
+	    |    ├───settings.py
+	    |    ├───urls.py
+	    |    └───wsgi.py
+	    ├───.gitignore
+	    ├───README.md
+	    ├───manage.py
+	    └───pyvenv.cfg
     ```
 * Paso 1: **Agregar .gitignore**
     
