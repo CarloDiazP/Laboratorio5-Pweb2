@@ -115,7 +115,7 @@ I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS <br>
     ```sh
         ❯ virtualenv -p python3 .
     ```
-    Este comando va a crear 2 carpetas <code>Lib/</code> y <code>Scripts/</code> y un archivo <code>pyvenv.cfg</code>. Agregamos <code>Lib/</code> y <code>Scripts/</code> al archivo <code>.gitignore</code> ya que estos varían dependiendo del sistema operativo y solo conservaremos haremos commit del archivo <code>pyvenv.cfg</code>.
+    Este comando va a crear 2 carpetas <code>Lib/</code> y <code>Scripts/</code> y un archivo <code>pyvenv.cfg</code>. Agregamos <code>Lib/</code> y <code>Scripts/</code> al archivo <code>.gitignore</code> ya que estos varían dependiendo del sistema operativo y solo conservaremos el archivo <code>pyvenv.cfg</code> y luego haremos commit.
     Activaremos el entorno virtual (Windows) con el siguiente comando:
     ```sh
         ❯ .\Scripts\activate.ps1
