@@ -88,6 +88,8 @@ I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS <br>
 	    ├───manage.py
 	    └───pyvenv.cfg
     ```
+* URL video operaciones CRUD : https://drive.google.com/file/d/1_4AbNt61LwxCEWrP3p13wMHAaT_9Dat1/view?usp=sharing
+    
 * Paso 1: **Agregar .gitignore**
     
     Para empezar con el repositorio, se agrega un archivo <code>.gitignore</code> con las siguientes rutas, especificadas en https://github.com/django/django/blob/main/.gitignore.
