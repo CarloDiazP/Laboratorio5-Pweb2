@@ -115,7 +115,7 @@ I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS <br>
     ```sh
         ❯ virtualenv -p python3 .
     ```
-    Este comando va a crear 2 carpetas <code>Lib/</code> y <code>Scripts/</code> y un archivo <code>pyvenv.cfg</code>. Agregamos <code>Lib/</code> y <code>Scripts/</code> al archivo <code>.gitignore</code> ya que estos varian dependiendo del sistema operativo y solo conservaremos haremos commit del archivo <code>pyvenv.cfg</code>.
+    Este comando va a crear 2 carpetas <code>Lib/</code> y <code>Scripts/</code> y un archivo <code>pyvenv.cfg</code>. Agregamos <code>Lib/</code> y <code>Scripts/</code> al archivo <code>.gitignore</code> ya que estos varían dependiendo del sistema operativo y solo conservaremos haremos commit del archivo <code>pyvenv.cfg</code>.
     Activaremos el entorno virtual (Windows) con el siguiente comando:
     ```sh
         ❯ .\Scripts\activate.ps1
@@ -241,7 +241,7 @@ I. SOLUCIÓN DE EJERCICIOS/PROBLEMAS <br>
             def __str__(self):
                 return self.title
     ```
-    Entonces, para cada entrada de nuestro blog tendrá un autor, titulo, texto y la fecha en la que se creó.
+    Entonces, para cada entrada de nuestro blog tendrá un autor, título, texto y la fecha en la que se creó.
 
 * Paso 9: **Agregando los nuevos modelos**
 
