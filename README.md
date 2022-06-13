@@ -280,7 +280,24 @@ II. SOLUCIÓN DEL CUESTIONARIO
 
 * En un proyecto Django que se debe ignorar para usar git. Vea: https://github.com/django/django/blob/main/.gitignore. ¿Qué otros tipos de archivos se deberían agregar a este archivo?
 
-  
+  En un proyecto Django debemos ignorar los siguientes archivos:
+  ```sh
+        *.egg-info
+        *.pot
+        *.py[co]
+        .tox/
+        __pycache__
+        MANIFEST
+        dist/
+        docs/_build/
+        docs/locale/
+        node_module/
+        test/coverage_html/
+        test/.coverage
+        build/
+        test/report/
+    ```
+    Adicionalmente, si tenemos archivos automáticamente generados por algún IDE debemos ignorarlos de la siguiente manera <code>$GIT_DIR/info/exclude</code>.
   
 * Utilice <code>python manage.py shell</code> para agregar objetos. ¿Qué archivos se modificaron al agregar más objetos?
 
